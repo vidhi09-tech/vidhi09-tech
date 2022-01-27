@@ -18,6 +18,13 @@ Hi there, I'm <a href="https://github.com/vidhi09-tech/" target="_blank" rel="no
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
+## 💼 Technical Skills
+
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+
+
+
 <!--
 **vidhi09-tech/vidhi09-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
