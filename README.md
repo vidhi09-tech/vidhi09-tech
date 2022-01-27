@@ -2,7 +2,9 @@
   <a href="https://github.com/vidhi09-tech/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/63573906/151293073-8a98872e-f72f-43b1-b063-32b0bd7faef0.png" alt="my banner"></a>
 </p>
 
-### Hi there 👋
+<h3 align="center">
+Hi there, I'm <a href="https://github.com/vidhi09-tech/" target="_blank" rel="noreferrer">Vidhi</a> 👋
+</h3>
 
 <!--
 **vidhi09-tech/vidhi09-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
