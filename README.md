@@ -9,6 +9,14 @@ Hi there, I'm <a href="https://github.com/vidhi09-tech/" target="_blank" rel="no
 
 >A passionate learner, a team player and a tech-enthusiast who is ready to bring in new ideas into reality through his projects. A good communicator with great interpersonal skills. Can lead as well as be part of a productive team whilst being able to take responsibilities as well. Learning different aspects in the fields of robotics and IoT which would allow me to utilize my skills in the field of science and engineering and also help develop new technologies. I have been very active outside of the classroom, participating in extracurricular activities and pursuing new experiences so as to push myself and broaden my horizons.
 
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/vidhi-kumari-23964a176/"><img align="left" src="<a href="https://www.flaticon.com/free-icons/youtube" title="youtube icons">Youtube icons created by Freepik - Flaticon</a>" alt="Vidhi | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
 <!--
 **vidhi09-tech/vidhi09-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
