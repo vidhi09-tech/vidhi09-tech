@@ -13,7 +13,7 @@ Hi there, I'm <a href="https://github.com/vidhi09-tech/" target="_blank" rel="no
 
 <a href="https://www.linkedin.com/in/vidhi-kumari-23964a176/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Vidhi | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/the_creative_artist____/?hl=en"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Vidhi | Instagram" width="21px"/></a>
-<a href="https://www.youtube.com/channel/UCLAmQpr6m8RKTS7ElsHBm4Q"><img align="left" src="https://user-images.githubusercontent.com/63573906/151295467-0a1a0b86-b2f6-4ee2-8a75-b4d7ff81498f.svg" alt="Vidhi | Medium" width="21px"/></a>
+<a href="https://www.youtube.com/channel/UCLAmQpr6m8RKTS7ElsHBm4Q"><img align="left" src="https://user-images.githubusercontent.com/63573906/151295467-0a1a0b86-b2f6-4ee2-8a75-b4d7ff81498f.png" alt="Vidhi | Medium" width="28px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
