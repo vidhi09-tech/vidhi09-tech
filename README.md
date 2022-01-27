@@ -1,4 +1,7 @@
-https://www.canva.com/design/DAE2nGqdZEI/shjspoEJEJWwhc6_DEjIDQ/view?utm_content=DAE2nGqdZEI&utm_campaign=designshare&utm_medium=link&utm_source=shareyourdesignpanel
+<p align="center">
+  <a href="https://github.com/vidhi09-tech/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/63573906/151293073-8a98872e-f72f-43b1-b063-32b0bd7faef0.png" alt="my banner"></a>
+</p>
+
 ### Hi there 👋
 
 <!--
