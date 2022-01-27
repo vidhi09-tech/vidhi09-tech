@@ -11,7 +11,7 @@ Hi there, I'm <a href="https://github.com/vidhi09-tech/" target="_blank" rel="no
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/vidhi-kumari-23964a176/"><img align="left" src="<a href="https://www.flaticon.com/free-icons/youtube" title="youtube icons">Youtube icons created by Freepik - Flaticon</a>" alt="Vidhi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/vidhi-kumari-23964a176/"><img align="left" <i class="fab fa-youtube"></i> alt="Vidhi | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 <a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 </br>
