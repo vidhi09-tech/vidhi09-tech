@@ -24,9 +24,10 @@ Hi there, I'm <a href="https://github.com/vidhi09-tech/" target="_blank" rel="no
 ![](https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Code-C-00599C?style=flat&logo=c&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Code-Java-ED8B00?style=flat&logo=java&logoColor=CC0000)
-![](https://img.shields.io/badge/Code-Matlab-ED8B00?style=flat&logo=matlab&logoColor=CC0000)
+![](https://img.shields.io/badge/Code-Matlab-0095D5?style=flat&logo=matlab&logoColor=0081CB)
 
 </br>
+
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 
