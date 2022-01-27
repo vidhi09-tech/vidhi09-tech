@@ -40,3 +40,4 @@ Here are some ideas to get you started:
 ### Top Languages I've Worked on!
 ![Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vidhi09-tech&layout=compact&theme=chartreuse-dark)
 
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=vidhi09-tech.vidhi09-tech)](https://github.com/vidhi09-tech)
