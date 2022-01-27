@@ -31,6 +31,11 @@ Hi there, I'm <a href="https://github.com/vidhi09-tech/" target="_blank" rel="no
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 
+</br>
+
+
+![](https://img.shields.io/badge/Tools-Arduino-informational?style=flat&logo=Arduino&color=F24E1E)
+
 
 <!--
 **vidhi09-tech/vidhi09-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
