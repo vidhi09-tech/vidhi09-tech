@@ -5,7 +5,6 @@
 <h3 align="center">
 Hi there, I'm <a href="https://github.com/vidhi09-tech/" target="_blank" rel="noreferrer">Vidhi</a> 👋
 </h3>
-
 A passionate learner, a team player and a tech-enthusiast who is ready to bring in new ideas into reality through his projects. A good communicator with great interpersonal skills. Can lead as well as be part of a productive team whilst being able to take responsibilities as well. Learning different aspects in the fields of robotics and IoT which would allow me to utilize my skills in the field of science and engineering and also help develop new technologies. I have been very active outside of the classroom, participating in extracurricular activities and pursuing new experiences so as to push myself and broaden my horizons.
 
 <!--
