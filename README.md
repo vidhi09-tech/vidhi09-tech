@@ -21,7 +21,7 @@ Hi there, I'm <a href="https://github.com/vidhi09-tech/" target="_blank" rel="no
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 
 
