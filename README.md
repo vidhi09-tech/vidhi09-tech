@@ -61,4 +61,4 @@ Here are some ideas to get you started:
 
 //[![Visitors](https://visitor-badge.glitch.me/badge?page_id=vidhi09-tech.vidhi09-tech)](https://github.com/vidhi09-tech)
 
-![d](https://visitor-badge.laobi.icu/badge?page_id=riturajgupta21)
+![d](https://visitor-badge.laobi.icu/badge?page_id=vidhi09-tech)
