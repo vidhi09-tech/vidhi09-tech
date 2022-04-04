@@ -35,6 +35,7 @@ Hi there, I'm <a href="https://github.com/vidhi09-tech/" target="_blank" rel="no
 
 
 ![](https://img.shields.io/badge/Tools-Arduino-informational?style=flat&logo=Arduino&color=F24E1E)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/29cf0dcf-a95b-40c0-8579-e6ffd1b72d01/deploy-status)](https://app.netlify.com/sites/iridescent-faun-874c8b/deploys)
 
 
 <!--
