@@ -12,7 +12,7 @@ Hi there, I'm <a href="https://github.com/vidhi09-tech/" target="_blank" rel="no
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/vidhi-kumari-23964a176/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Vidhi | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/the_creative_artist____/?hl=en"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Vidhi | Instagram" width="21px"/></a>
+<a href="https://www.instagram.com/_._art_by_jasmine_._/?hl=en"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Vidhi | Instagram" width="21px"/></a>
 <a href="https://www.youtube.com/channel/UCLAmQpr6m8RKTS7ElsHBm4Q"><img align="left" src="https://user-images.githubusercontent.com/63573906/151295467-0a1a0b86-b2f6-4ee2-8a75-b4d7ff81498f.png" alt="Vidhi | Medium" width="40px"/></a>
 <a href="https://dev.to/vidhi09tech"><img align="left" src="https://user-images.githubusercontent.com/63573906/151296380-748d1f2b-0053-4b2f-89a3-1973ede3e287.png" alt="Vidhi | Medium" width="21px"/></a>
 </br>
